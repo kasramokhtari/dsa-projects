@@ -101,14 +101,6 @@ g++ -std=c++11 -o Arithmetic Arithmetic.cpp BigInteger.cpp List.cpp
 
 ---
 
-## Author
-
-**Kasra Mokhtari**  
-CSE 101 – Fall 2024  
-UC Santa Cruz
-
----
-
 ## Notes
 
 - This implementation avoids the C++ STL for educational purposes.
